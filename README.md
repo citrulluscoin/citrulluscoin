@@ -4,15 +4,14 @@
   "symbol": "CTC",
   "decimals": "9",
   "image": "https://cache.tonapi.io/imgproxy/NFJGnhfeit3KmZTsTLwJPTpEQFI0F8XVgBGRq2uvo10/rs:fill:200:200:1/g:no/aHR0cHM6Ly9ieWluLmZ1bi9maWxlLzIwMjQvMDkvMDYvMGIyZDg4NzQ5MDRiNDNkM2I0MjJmMjhiYzRiYTE2YTIucG5n.webp",
-  "description": "citrulluscoin is created to be listed on all Exchange and wallet "
+"https":"@tonverifier.org",
+  "description": "citrulluscoin is created to be listed on all Exchange and wallet ",
 "version":"0.4.1",
 "mintable:"true",
 "license":"MIT",
-"script":{"main":"net"}
-,
-"@ton/main-utils":"^0.4.1
-
-"@toncrypto":"^0.4.2
+"script":{"main":"net"},
+"@ton/main-utils":"^0.4.1,
+"@toncrypto":"^0.4.2,
 "typescript":"0.4.3"
 }
     }
